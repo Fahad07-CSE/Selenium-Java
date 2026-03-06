@@ -1,0 +1,23 @@
+
+
+
+{
+  "name": "selenium-automtion-java",
+  "version": "1.0.0",
+  "description": "selenium webdriver automation testing",
+  "homepage": "https://github.com/Fahad07-CSE/Selenium-Automation-Testing-Java#readme",
+  "bugs": {
+    "url": "https://github.com/Fahad07-CSE/Selenium-Automation-Testing-Java/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fahad07-CSE/Selenium-Automation-Testing-Java.git"
+  },
+  "license": "ISC",
+  "author": "Fahad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
